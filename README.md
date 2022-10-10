@@ -1,1 +1,0 @@
-# manometr_app
